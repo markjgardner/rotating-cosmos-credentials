@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "infrastructure"
+		},
+		{
+			"path": "apps\\consumer"
+		},
+		{
+			"path": "apps\\rotator"
+		},
+		{
+			"path": "apps\\simulator"
+		}
+	]
+}
